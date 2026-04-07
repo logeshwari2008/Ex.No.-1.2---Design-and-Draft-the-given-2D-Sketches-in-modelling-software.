@@ -38,9 +38,8 @@
  ## OUTPUT
 
 
+<img width="948" height="671" alt="image" src="https://github.com/user-attachments/assets/87bc6fbb-f0a8-44b9-8ac3-2afb526345e7" />
 
- 
- [Experiment 2 Drawing.pdf](https://github.com/user-attachments/files/26505042/Experiment.2.Drawing.pdf)
 
  ## RESULT
  Thus the given sketch is drawn and drafted using fusion 360 tool.
